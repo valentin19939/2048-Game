@@ -21,5 +21,5 @@ Features:
 
 This 2048 game is built with modern web technologies, ensuring smooth interaction without page reloads.
 
-    - [DEMO LINK](https://valentin19939.github.io/2048-Game/)
+    - [DEMO LINK](https://valentinwdev.github.io/2048-Game/)
 
